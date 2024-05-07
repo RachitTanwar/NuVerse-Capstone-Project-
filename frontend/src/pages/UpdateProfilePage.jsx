@@ -157,7 +157,7 @@ export default function UpdateProfilePage() {
 							type='submit'
 							isLoading={updating}
 						>
-							Submit
+							Update
 						</Button>
 					</Stack>
 				</Stack>
